@@ -3245,3 +3245,13 @@ p.form-message.success, p.form-message.error {
     background-color: #0067f4; }
 
 /*# sourceMappingURL=style.css.map */
+
+/*CUSTOM STYLES*/
+
+.logo{
+  width: 150px;
+}
+
+.faq_image{
+  border-radius:10%;
+}
